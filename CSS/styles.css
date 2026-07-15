@@ -1,0 +1,51 @@
+p{
+font-family: monospace;
+color: rgb(130, 0, 130);
+}
+.index{
+    font-size: 020px;
+    font-family: monospace;
+    font-weight: bold;
+    font-style: italic;
+}
+td{
+    color: red;
+    font-size: 20px;
+    background: linear-gradient(90deg,white,wheat,pink,orange,red);
+}
+th{
+    color: blue;
+    font-size: 20px;
+    background: linear-gradient(90deg,blue,cyan,indigo);
+}    
+u{
+    color: rgb(79, 255, 79);
+    font-size: 20px;
+}
+b{
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
+i{
+    color: rgb(0, 0, 255);
+    font-size: 20px;
+}
+small{
+    color: rgba(248, 243, 248, 0.799);
+    font-size: 20px;
+}
+big{
+    color: rgb(0, 122, 122);
+    font-size: 20px;
+}
+ul{
+    color: rgb(191, 201, 0);
+    font-size: 20px;
+    background-color: rgb(0, 0, 0);
+    content: "• ";
+    text-align: justify;
+    width: fit-content;
+    /*background:linear-gradient(90deg, wheat,blue,pink,green,red);*/
+    background:linear-gradient(to top, wheat,blue,green);
+}
+

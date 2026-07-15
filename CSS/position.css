@@ -1,0 +1,12 @@
+form{
+    margin: 0.3cm 0.2cm 0.5cm 0.1cm;
+    border-style: groove;
+    border-width: 0.6cm;
+    border-color: blue chocolate green red ; 
+    border-radius: 20px 30px 20px 30px;
+    padding: 0.5cm 0.3cm 0.5cm 0.3cm; 
+}
+input{
+    position: static;
+    right: 2cm;
+}
